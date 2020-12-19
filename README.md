@@ -1,4 +1,4 @@
-# DQN-Atari-Breakout  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/JordiRomeroUB/DQN-Atari-BreakOut/blob/main/dqn_atari_breakout.ipynb)
+# DQN-Atari-Breakout  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FIDNhHSbmlo1RW4IZeNb9izuOC96YqKj?usp=sharing)
 Una Deep Q Network que implementa un algoritmo de q-learning aproximado con reproducción de experiencia y
                      redes objetivo.
                     
