@@ -15,10 +15,9 @@ Desarrollado en TensorFlow usando OpenAI Gym para el entorno Atari,
                
   DeepMind's Papers:
                 [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf),
-				
                  [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/pdf/1509.06461.pdf),
                   [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf) | 
 
 
-Realizado con: @saguillo2000
-Creditos a: @GiannisMitr 
+Realizado con: [Oriol_Saguillo](https://github.com/saguillo2000)  
+Creditos a: [GiannisMitr](https://github.com/GiannisMitr) 
